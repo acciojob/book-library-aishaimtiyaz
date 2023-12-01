@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f8f8f8;
+	
+	
+}
+.book-library{
+	background-color:#ffffff;
+		width:85vw;
+/* 	margin-top:5px;
+	margin-bottom:5px; */
+	margin-inline:25px;
+	
+}
+.book-library>h1{
+	text-align:center;
+}
+.book{
+	width:90%;
+padding-inline:25px;
+	marging-top:20px;
+	marging-bottom:20px;
+	background-color:#f8f8f8;
+	
+/* 	background-color:#f8f8f8; */
+
+}
+.book>img{
+	padding-inline:25%;
+}
+.title{
+	font-weight:700;
+	font-size:large;
+}
+.price{
+	width:90%;
+	background-color:green;
+	color:white;
+	padding:10px;
+	text-align:center;
+	font-weight:600;
+}
