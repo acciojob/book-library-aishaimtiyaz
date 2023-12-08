@@ -24,6 +24,9 @@ padding-inline:25px;
 	
 /* 	background-color:#f8f8f8; */
 
+.book>p{
+	color:#777777;
+}
 }
 .book>img{
 	padding-inline:25%;
@@ -34,7 +37,7 @@ padding-inline:25px;
 }
 .price{
 	width:90%;
-	background-color:green;
+	background-color:#2ecc71;
 	color:white;
 	padding:10px;
 	text-align:center;
